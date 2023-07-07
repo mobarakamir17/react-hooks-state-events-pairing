@@ -10,3 +10,13 @@ body {
 .App {
   text-align: center;
 }
+
+.hide-comments-button {
+  margin-top: 20px;
+}
+
+.horizontal-line {
+  border: none;
+  border-top: 1px solid black;
+  margin: 20px 0;
+}
